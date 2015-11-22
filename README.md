@@ -9,12 +9,19 @@ Divide and Conquer in DP : You can find them in HW2_CS5050
 Funtions and variables can be changed in the program to chance the number of objects and number of runs 
 in each of the programs
 
+                 ------------------------------------------------------------------------
+
 Folders -
 
 Raw Data - Inputs used for testing all the algorithms
+
 Java Code - Code used for the algos
+
 Graphs - Graphs with different parameters to measure the efficiency of the algorithm
+
 Report - Detailed information about graphs and observations.
+
+                 ------------------------------------------------------------------------
 
 1)      Implemented trace-back routine that takes the 2D cache array and returns an assignment of true or false to each object in the problem description, where true means the object is selected.
 
